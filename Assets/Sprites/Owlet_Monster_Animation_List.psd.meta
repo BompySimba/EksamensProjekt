@@ -289,7 +289,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -326,7 +326,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -355,12 +355,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 223
-        width: 23
-        height: 28
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -377,12 +377,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 234
-        width: 10
-        height: 10
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,12 +399,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_2
       rect:
         serializedVersion: 2
-        x: 71
-        y: 231
-        width: 16
-        height: 16
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -421,12 +421,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 191
-        width: 23
-        height: 27
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_4
       rect:
         serializedVersion: 2
-        x: 34
-        y: 191
-        width: 23
-        height: 28
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -465,12 +465,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_5
       rect:
         serializedVersion: 2
-        x: 67
-        y: 191
-        width: 22
-        height: 29
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_6
       rect:
         serializedVersion: 2
-        x: 98
-        y: 191
-        width: 23
-        height: 27
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,12 +509,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_7
       rect:
         serializedVersion: 2
-        x: 130
-        y: 191
-        width: 23
-        height: 28
+        x: 128
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -531,12 +531,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_8
       rect:
         serializedVersion: 2
-        x: 163
-        y: 191
-        width: 22
-        height: 29
+        x: 160
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -553,12 +553,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_9
       rect:
         serializedVersion: 2
-        x: 226
-        y: 191
-        width: 23
-        height: 28
+        x: 224
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -575,12 +575,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_10
       rect:
         serializedVersion: 2
-        x: 258
-        y: 191
-        width: 24
-        height: 26
+        x: 256
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -597,12 +597,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_11
       rect:
         serializedVersion: 2
-        x: 290
-        y: 191
-        width: 25
-        height: 26
+        x: 288
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -619,12 +619,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_12
       rect:
         serializedVersion: 2
-        x: 323
-        y: 191
-        width: 22
+        x: 320
+        y: 192
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -641,12 +641,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_13
       rect:
         serializedVersion: 2
-        x: 354
-        y: 194
-        width: 23
-        height: 29
+        x: 352
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -663,12 +663,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_14
       rect:
         serializedVersion: 2
-        x: 386
+        x: 384
         y: 192
-        width: 24
-        height: 29
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -685,12 +685,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_15
       rect:
         serializedVersion: 2
-        x: 418
-        y: 191
-        width: 25
-        height: 26
+        x: 416
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -707,12 +707,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_16
       rect:
         serializedVersion: 2
-        x: 451
-        y: 191
-        width: 22
-        height: 28
+        x: 448
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -729,12 +729,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_17
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 160
-        width: 22
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -751,12 +751,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_18
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 160
-        width: 23
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_19
       rect:
         serializedVersion: 2
-        x: 68
-        y: 159
-        width: 23
-        height: 26
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -795,12 +795,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_20
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 160
-        width: 22
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -817,12 +817,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_21
       rect:
         serializedVersion: 2
-        x: 132
+        x: 128
         y: 160
-        width: 23
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -839,12 +839,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_22
       rect:
         serializedVersion: 2
-        x: 164
-        y: 159
-        width: 23
-        height: 26
+        x: 160
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -861,12 +861,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_23
       rect:
         serializedVersion: 2
-        x: 226
-        y: 159
-        width: 23
-        height: 27
+        x: 224
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -883,12 +883,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_24
       rect:
         serializedVersion: 2
-        x: 259
-        y: 159
-        width: 29
-        height: 29
+        x: 256
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -905,12 +905,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_25
       rect:
         serializedVersion: 2
-        x: 290
-        y: 159
-        width: 25
-        height: 29
+        x: 288
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -927,12 +927,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_26
       rect:
         serializedVersion: 2
-        x: 322
-        y: 159
-        width: 23
-        height: 27
+        x: 320
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -949,12 +949,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_27
       rect:
         serializedVersion: 2
-        x: 354
-        y: 159
-        width: 23
-        height: 28
+        x: 352
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -971,12 +971,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_28
       rect:
         serializedVersion: 2
-        x: 387
-        y: 159
-        width: 22
-        height: 29
+        x: 384
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -993,12 +993,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_29
       rect:
         serializedVersion: 2
-        x: 2
-        y: 127
-        width: 23
-        height: 28
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1015,12 +1015,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_30
       rect:
         serializedVersion: 2
-        x: 33
-        y: 127
-        width: 23
-        height: 26
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1037,12 +1037,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_31
       rect:
         serializedVersion: 2
-        x: 68
-        y: 127
-        width: 29
-        height: 29
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1059,12 +1059,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_32
       rect:
         serializedVersion: 2
-        x: 98
-        y: 127
-        width: 25
-        height: 29
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1081,12 +1081,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_33
       rect:
         serializedVersion: 2
-        x: 226
-        y: 127
-        width: 23
-        height: 28
+        x: 224
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,12 +1103,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_34
       rect:
         serializedVersion: 2
-        x: 255
-        y: 97
-        width: 27
-        height: 31
+        x: 256
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1125,12 +1125,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_35
       rect:
         serializedVersion: 2
-        x: 258
-        y: 127
-        width: 23
-        height: 30
+        x: 288
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,12 +1147,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_36
       rect:
         serializedVersion: 2
-        x: 290
-        y: 127
-        width: 23
-        height: 29
+        x: 320
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1169,12 +1169,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_37
       rect:
         serializedVersion: 2
-        x: 322
-        y: 127
-        width: 23
-        height: 28
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1191,12 +1191,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_38
       rect:
         serializedVersion: 2
-        x: 3
-        y: 95
-        width: 24
-        height: 31
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1213,12 +1213,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_39
       rect:
         serializedVersion: 2
-        x: 36
-        y: 95
-        width: 24
-        height: 31
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1235,12 +1235,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_40
       rect:
         serializedVersion: 2
-        x: 67
-        y: 95
-        width: 24
-        height: 31
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1257,12 +1257,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_41
       rect:
         serializedVersion: 2
-        x: 98
-        y: 95
-        width: 24
-        height: 31
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1279,12 +1279,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_42
       rect:
         serializedVersion: 2
-        x: 225
-        y: 95
-        width: 24
-        height: 30
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1301,12 +1301,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_43
       rect:
         serializedVersion: 2
-        x: 289
+        x: 288
         y: 96
-        width: 28
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1323,12 +1323,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_44
       rect:
         serializedVersion: 2
-        x: 321
-        y: 95
-        width: 31
-        height: 13
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1345,12 +1345,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_45
       rect:
         serializedVersion: 2
-        x: 351
+        x: 352
         y: 96
-        width: 8
-        height: 8
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1367,12 +1367,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_46
       rect:
         serializedVersion: 2
-        x: 359
-        y: 95
-        width: 19
-        height: 14
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1389,12 +1389,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_47
       rect:
         serializedVersion: 2
-        x: 376
+        x: 416
         y: 96
-        width: 12
-        height: 11
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1411,12 +1411,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_48
       rect:
         serializedVersion: 2
-        x: 392
-        y: 102
-        width: 9
-        height: 8
+        x: 448
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1433,12 +1433,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_49
       rect:
         serializedVersion: 2
-        x: 393
-        y: 95
-        width: 16
-        height: 8
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1455,12 +1455,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_50
       rect:
         serializedVersion: 2
-        x: 409
-        y: 99
-        width: 10
-        height: 9
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1477,12 +1477,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_51
       rect:
         serializedVersion: 2
-        x: 424
-        y: 95
-        width: 56
-        height: 18
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1499,12 +1499,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_52
       rect:
         serializedVersion: 2
-        x: 2
-        y: 63
-        width: 23
-        height: 28
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1521,12 +1521,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_53
       rect:
         serializedVersion: 2
-        x: 35
-        y: 63
-        width: 22
-        height: 29
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1543,12 +1543,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_54
       rect:
         serializedVersion: 2
-        x: 66
-        y: 63
-        width: 23
-        height: 29
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1565,12 +1565,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_55
       rect:
         serializedVersion: 2
-        x: 98
-        y: 63
-        width: 24
-        height: 28
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1587,12 +1587,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_56
       rect:
         serializedVersion: 2
-        x: 226
-        y: 63
-        width: 23
-        height: 28
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1609,12 +1609,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_57
       rect:
         serializedVersion: 2
-        x: 257
-        y: 63
-        width: 23
-        height: 26
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1631,12 +1631,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_58
       rect:
         serializedVersion: 2
-        x: 292
-        y: 63
-        width: 29
-        height: 29
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1653,12 +1653,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_59
       rect:
         serializedVersion: 2
-        x: 322
-        y: 63
-        width: 25
-        height: 29
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1675,12 +1675,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_60
       rect:
         serializedVersion: 2
-        x: 356
-        y: 63
-        width: 27
-        height: 29
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1697,12 +1697,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_61
       rect:
         serializedVersion: 2
-        x: 386
-        y: 63
-        width: 23
-        height: 29
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1719,12 +1719,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_62
       rect:
         serializedVersion: 2
-        x: 5
-        y: 31
-        width: 25
-        height: 27
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1741,12 +1741,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_63
       rect:
         serializedVersion: 2
-        x: 37
-        y: 31
-        width: 25
-        height: 28
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1763,12 +1763,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_64
       rect:
         serializedVersion: 2
-        x: 70
-        y: 31
-        width: 24
-        height: 29
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1785,12 +1785,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_65
       rect:
         serializedVersion: 2
-        x: 98
-        y: 0
-        width: 57
-        height: 58
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1807,12 +1807,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_66
       rect:
         serializedVersion: 2
-        x: 133
-        y: 31
-        width: 25
-        height: 28
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1829,12 +1829,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_67
       rect:
         serializedVersion: 2
-        x: 166
-        y: 31
-        width: 24
-        height: 29
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1851,12 +1851,12 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_68
       rect:
         serializedVersion: 2
-        x: 226
-        y: 31
-        width: 23
-        height: 28
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1873,19 +1873,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_69
       rect:
         serializedVersion: 2
-        x: 258
-        y: 31
-        width: 24
-        height: 27
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e3f69ed02b928a460800000000000000
+      spriteID: 36e854781986611428a7aaae8c3ddb78
       internalID: 7253093044594503486
       vertices: []
       indices: 
@@ -1895,19 +1895,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_70
       rect:
         serializedVersion: 2
-        x: 292
-        y: 31
-        width: 22
-        height: 29
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0a49fa69c557f9ce0800000000000000
+      spriteID: 4cbb526e77ba6f24abe0533555604012
       internalID: -1396268318936034144
       vertices: []
       indices: 
@@ -1917,19 +1917,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_71
       rect:
         serializedVersion: 2
-        x: 322
-        y: 31
-        width: 23
-        height: 29
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 511924aa005d5f340800000000000000
+      spriteID: 1e50de40c44c5a6469b9ec31d68c64c0
       internalID: 4897054368668487957
       vertices: []
       indices: 
@@ -1939,19 +1939,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_72
       rect:
         serializedVersion: 2
-        x: 7
-        y: 3
-        width: 15
-        height: 7
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 526e2fddf3b5f3c90800000000000000
+      spriteID: 47384f7571e0bc7428559ecfb5ffcdb7
       internalID: -7187926150395271643
       vertices: []
       indices: 
@@ -1961,19 +1961,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_73
       rect:
         serializedVersion: 2
-        x: 36
-        y: 1
-        width: 15
-        height: 7
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8622454ff6bc01c00800000000000000
+      spriteID: 589fa0af3c6072d46ac0d11c5a29a232
       internalID: 869418409783468648
       vertices: []
       indices: 
@@ -1983,19 +1983,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_74
       rect:
         serializedVersion: 2
-        x: 50
-        y: 1
-        width: 7
-        height: 7
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f43e2e0ab2cf47cc0800000000000000
+      spriteID: fc68656c043d30247b189bc646933431
       internalID: -3714066528360799409
       vertices: []
       indices: 
@@ -2005,19 +2005,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_75
       rect:
         serializedVersion: 2
-        x: 67
+        x: 256
         y: 0
-        width: 6
-        height: 7
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f66684c12b8f44c0800000000000000
+      spriteID: 005d8263b2b4bcb44a50b4ca89b3a117
       internalID: -4301066141968210186
       vertices: []
       indices: 
@@ -2027,19 +2027,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_76
       rect:
         serializedVersion: 2
-        x: 74
+        x: 288
         y: 0
-        width: 16
-        height: 7
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec7f8cfa9e7db9140800000000000000
+      spriteID: 506900f3289919e47a23ca9b49ec3afa
       internalID: 4727609632532002766
       vertices: []
       indices: 
@@ -2049,19 +2049,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_77
       rect:
         serializedVersion: 2
-        x: 224
+        x: 320
         y: 0
-        width: 18
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3bcba4b68fa312860800000000000000
+      spriteID: 454c15c74794817428a6ad9707e6bdcb
       internalID: 7503343292802317491
       vertices: []
       indices: 
@@ -2071,19 +2071,19 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_78
       rect:
         serializedVersion: 2
-        x: 257
+        x: 352
         y: 0
-        width: 14
-        height: 12
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc1970ab81a6fc0a0800000000000000
+      spriteID: dab3bd990ccca6f48ae9856bb7bf6d3a
       internalID: -6859147053029158451
       vertices: []
       indices: 
@@ -2093,130 +2093,20 @@ TextureImporter:
       name: Owlet_Monster_Animation_List_79
       rect:
         serializedVersion: 2
-        x: 288
-        y: 0
-        width: 20
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5698f63b8f639d20800000000000000
-      internalID: 3284091196996621918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Owlet_Monster_Animation_List_80
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61d565fb27dbb96f0800000000000000
-      internalID: -676739018455098090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Owlet_Monster_Animation_List_81
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 0
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7a9ebf0510593ec0800000000000000
-      internalID: -3586747576835204483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Owlet_Monster_Animation_List_82
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 2
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f100bd901546284c0800000000000000
-      internalID: -4286753596082814945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Owlet_Monster_Animation_List_83
-      rect:
-        serializedVersion: 2
-        x: 358
-        y: 0
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23edddd48d3b9eb90800000000000000
-      internalID: -7212035586656444878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Owlet_Monster_Animation_List_84
-      rect:
-        serializedVersion: 2
         x: 384
         y: 0
-        width: 14
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 10cb770e5ccf232f0800000000000000
-      internalID: -994454640890758143
+      spriteID: e10252ad33e1cd048811ce3b57c8a93b
+      internalID: 3284091196996621918
       vertices: []
       indices: 
       edges: []
@@ -2225,7 +2115,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d2f6adb7727fcd94ab991dd90d8c80de
     internalID: 0
     vertices: []
     indices: 
@@ -2233,7 +2123,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Owlet_Monster_Animation_List_0: 1257903287466586888
       Owlet_Monster_Animation_List_1: -6395168090995836456
@@ -2314,11 +2206,6 @@ TextureImporter:
       Owlet_Monster_Animation_List_78: -6859147053029158451
       Owlet_Monster_Animation_List_79: 3284091196996621918
       Owlet_Monster_Animation_List_8: 4244889791071351993
-      Owlet_Monster_Animation_List_80: -676739018455098090
-      Owlet_Monster_Animation_List_81: -3586747576835204483
-      Owlet_Monster_Animation_List_82: -4286753596082814945
-      Owlet_Monster_Animation_List_83: -7212035586656444878
-      Owlet_Monster_Animation_List_84: -994454640890758143
       Owlet_Monster_Animation_List_9: -1972169980088263256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
