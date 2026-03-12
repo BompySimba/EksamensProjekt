@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: d2d0f8a1e1cd521448dbe6537d55459e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1257903287466586888
+    second: Owlet_Monster_Animation_List_0
+  - first:
+      213: -6395168090995836456
+    second: Owlet_Monster_Animation_List_1
+  - first:
+      213: -8990755705002103740
+    second: Owlet_Monster_Animation_List_2
+  - first:
+      213: -8500505987910810498
+    second: Owlet_Monster_Animation_List_3
+  - first:
+      213: -1201998452447475355
+    second: Owlet_Monster_Animation_List_4
+  - first:
+      213: -3176466859442681144
+    second: Owlet_Monster_Animation_List_5
+  - first:
+      213: 3963485523438131434
+    second: Owlet_Monster_Animation_List_6
+  - first:
+      213: -5940181948420406507
+    second: Owlet_Monster_Animation_List_7
+  - first:
+      213: 4244889791071351993
+    second: Owlet_Monster_Animation_List_8
+  - first:
+      213: -1972169980088263256
+    second: Owlet_Monster_Animation_List_9
+  - first:
+      213: -5910425791738481846
+    second: Owlet_Monster_Animation_List_10
+  - first:
+      213: 7892687269389684412
+    second: Owlet_Monster_Animation_List_11
+  - first:
+      213: 5319269316382722215
+    second: Owlet_Monster_Animation_List_12
+  - first:
+      213: -7916063083048073630
+    second: Owlet_Monster_Animation_List_13
+  - first:
+      213: -3622908521717485177
+    second: Owlet_Monster_Animation_List_14
+  - first:
+      213: 5333006261733201436
+    second: Owlet_Monster_Animation_List_15
+  - first:
+      213: 8047199433288518584
+    second: Owlet_Monster_Animation_List_16
+  - first:
+      213: 872765715055818089
+    second: Owlet_Monster_Animation_List_17
+  - first:
+      213: 3207757889095262645
+    second: Owlet_Monster_Animation_List_18
+  - first:
+      213: -5372350575921315818
+    second: Owlet_Monster_Animation_List_19
+  - first:
+      213: 3642372397573050820
+    second: Owlet_Monster_Animation_List_20
+  - first:
+      213: 5552954777578583562
+    second: Owlet_Monster_Animation_List_21
+  - first:
+      213: -1933749931477629374
+    second: Owlet_Monster_Animation_List_22
+  - first:
+      213: -5022579230137978664
+    second: Owlet_Monster_Animation_List_23
+  - first:
+      213: 7253942581263769106
+    second: Owlet_Monster_Animation_List_24
+  - first:
+      213: 4729227112118869717
+    second: Owlet_Monster_Animation_List_25
+  - first:
+      213: 1181127042280741581
+    second: Owlet_Monster_Animation_List_26
+  - first:
+      213: -3563392217334440128
+    second: Owlet_Monster_Animation_List_27
+  - first:
+      213: 5568063465152041381
+    second: Owlet_Monster_Animation_List_28
+  - first:
+      213: -7784780478031505325
+    second: Owlet_Monster_Animation_List_29
+  - first:
+      213: -2001059953563197421
+    second: Owlet_Monster_Animation_List_30
+  - first:
+      213: -5189786381367718702
+    second: Owlet_Monster_Animation_List_31
+  - first:
+      213: -7811284510837885234
+    second: Owlet_Monster_Animation_List_32
+  - first:
+      213: 1945788534619844175
+    second: Owlet_Monster_Animation_List_33
+  - first:
+      213: -7195477030293230467
+    second: Owlet_Monster_Animation_List_34
+  - first:
+      213: 1725976493781049794
+    second: Owlet_Monster_Animation_List_35
+  - first:
+      213: 143761357516526614
+    second: Owlet_Monster_Animation_List_36
+  - first:
+      213: 2468672979530926884
+    second: Owlet_Monster_Animation_List_37
+  - first:
+      213: -1256296429189456746
+    second: Owlet_Monster_Animation_List_38
+  - first:
+      213: 5803424511594999873
+    second: Owlet_Monster_Animation_List_39
+  - first:
+      213: 2336619636740781558
+    second: Owlet_Monster_Animation_List_40
+  - first:
+      213: -1835999964223202198
+    second: Owlet_Monster_Animation_List_41
+  - first:
+      213: -6210905671976733750
+    second: Owlet_Monster_Animation_List_42
+  - first:
+      213: -2405382925804372515
+    second: Owlet_Monster_Animation_List_43
+  - first:
+      213: 1497023858514631141
+    second: Owlet_Monster_Animation_List_44
+  - first:
+      213: 5281540669141456208
+    second: Owlet_Monster_Animation_List_45
+  - first:
+      213: 956877868072066775
+    second: Owlet_Monster_Animation_List_46
+  - first:
+      213: 719845340608545763
+    second: Owlet_Monster_Animation_List_47
+  - first:
+      213: 6035843730950421308
+    second: Owlet_Monster_Animation_List_48
+  - first:
+      213: 6988043362580682635
+    second: Owlet_Monster_Animation_List_49
+  - first:
+      213: -365407968798193641
+    second: Owlet_Monster_Animation_List_50
+  - first:
+      213: -1464768649579554436
+    second: Owlet_Monster_Animation_List_51
+  - first:
+      213: 8866999581693506911
+    second: Owlet_Monster_Animation_List_52
+  - first:
+      213: -6119852518583852013
+    second: Owlet_Monster_Animation_List_53
+  - first:
+      213: 3646909256254727066
+    second: Owlet_Monster_Animation_List_54
+  - first:
+      213: 5632978296031405923
+    second: Owlet_Monster_Animation_List_55
+  - first:
+      213: 1560162953372954103
+    second: Owlet_Monster_Animation_List_56
+  - first:
+      213: 5625187252564047075
+    second: Owlet_Monster_Animation_List_57
+  - first:
+      213: -2904661560843228987
+    second: Owlet_Monster_Animation_List_58
+  - first:
+      213: -1630936873854076878
+    second: Owlet_Monster_Animation_List_59
+  - first:
+      213: -8320558822384065839
+    second: Owlet_Monster_Animation_List_60
+  - first:
+      213: 8849658057056324010
+    second: Owlet_Monster_Animation_List_61
+  - first:
+      213: 9130159730239369601
+    second: Owlet_Monster_Animation_List_62
+  - first:
+      213: 2403763564781889506
+    second: Owlet_Monster_Animation_List_63
+  - first:
+      213: -8117037120197540687
+    second: Owlet_Monster_Animation_List_64
+  - first:
+      213: 4777635168135383322
+    second: Owlet_Monster_Animation_List_65
+  - first:
+      213: 7434528109123550720
+    second: Owlet_Monster_Animation_List_66
+  - first:
+      213: 7972756448724517977
+    second: Owlet_Monster_Animation_List_67
+  - first:
+      213: 4022891555282524272
+    second: Owlet_Monster_Animation_List_68
+  - first:
+      213: 7253093044594503486
+    second: Owlet_Monster_Animation_List_69
+  - first:
+      213: -1396268318936034144
+    second: Owlet_Monster_Animation_List_70
+  - first:
+      213: 4897054368668487957
+    second: Owlet_Monster_Animation_List_71
+  - first:
+      213: -7187926150395271643
+    second: Owlet_Monster_Animation_List_72
+  - first:
+      213: 869418409783468648
+    second: Owlet_Monster_Animation_List_73
+  - first:
+      213: -3714066528360799409
+    second: Owlet_Monster_Animation_List_74
+  - first:
+      213: -4301066141968210186
+    second: Owlet_Monster_Animation_List_75
+  - first:
+      213: 4727609632532002766
+    second: Owlet_Monster_Animation_List_76
+  - first:
+      213: 7503343292802317491
+    second: Owlet_Monster_Animation_List_77
+  - first:
+      213: -6859147053029158451
+    second: Owlet_Monster_Animation_List_78
+  - first:
+      213: 3284091196996621918
+    second: Owlet_Monster_Animation_List_79
+  - first:
+      213: -676739018455098090
+    second: Owlet_Monster_Animation_List_80
+  - first:
+      213: -3586747576835204483
+    second: Owlet_Monster_Animation_List_81
+  - first:
+      213: -4286753596082814945
+    second: Owlet_Monster_Animation_List_82
+  - first:
+      213: -7212035586656444878
+    second: Owlet_Monster_Animation_List_83
+  - first:
+      213: -994454640890758143
+    second: Owlet_Monster_Animation_List_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803fd331068f47110800000000000000
+      internalID: 1257903287466586888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b749118ccf37a0800000000000000
+      internalID: -6395168090995836456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6805425b6a3380800000000000000
+      internalID: -8990755705002103740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74ce7377d2280a80800000000000000
+      internalID: -8500505987910810498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5698c45a6c4a15fe0800000000000000
+      internalID: -1201998452447475355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 191
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca4e12983ceae3d0800000000000000
+      internalID: -3176466859442681144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8dee88511210730800000000000000
+      internalID: 3963485523438131434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c6378dfb309da0800000000000000
+      internalID: -5940181948420406507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47d7b46c0e8ea30800000000000000
+      internalID: 4244889791071351993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 191
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad56242ad171a4e0800000000000000
+      internalID: -1972169980088263256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 191
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43fe14ae03f9fda0800000000000000
+      internalID: -5910425791738481846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe48371145788d60800000000000000
+      internalID: 7892687269389684412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 191
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a880a3b247d1d940800000000000000
+      internalID: 5319269316382722215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 194
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266065b219e742290800000000000000
+      internalID: -7916063083048073630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7813b4df4e7d8bdc0800000000000000
+      internalID: -3622908521717485177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169a8780f4a20a40800000000000000
+      internalID: 5333006261733201436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 191
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb03e9af356daf60800000000000000
+      internalID: 8047199433288518584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965ba023bcfac1c00800000000000000
+      internalID: 872765715055818089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1eaf00ece348c20800000000000000
+      internalID: 3207757889095262645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61048597d939175b0800000000000000
+      internalID: -5372350575921315818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19701c56e4c8230800000000000000
+      internalID: 3642372397573050820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06316b03fe001d40800000000000000
+      internalID: 5552954777578583562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24607d9cea0f925e0800000000000000
+      internalID: -1933749931477629374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0fe5b0dc63c4ab0800000000000000
+      internalID: -5022579230137978664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 159
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e9e49385e2ba460800000000000000
+      internalID: 7253942581263769106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deddff700791a140800000000000000
+      internalID: 4729227112118869717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 159
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca50cd79c4346010800000000000000
+      internalID: 1181127042280741581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 159
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f936278a94c8ec0800000000000000
+      internalID: -3563392217334440128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 159
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d73f783cb54d40800000000000000
+      internalID: 5568063465152041381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35859889667e6f390800000000000000
+      internalID: -7784780478031505325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102b95039eca34e0800000000000000
+      internalID: -2001059953563197421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcca6668cc2af7b0800000000000000
+      internalID: -5189786381367718702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63ff39f1eb89390800000000000000
+      internalID: -7811284510837885234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 127
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2b0eec54d00b10800000000000000
+      internalID: 1945788534619844175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 97
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca3e3a3c7842c90800000000000000
+      internalID: -7195477030293230467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 127
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16e7af976e3f710800000000000000
+      internalID: 1725976493781049794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 127
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6145337613ebef100800000000000000
+      internalID: 143761357516526614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bcb8bcefc724220800000000000000
+      internalID: 2468672979530926884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1295cd0db09ee0800000000000000
+      internalID: -1256296429189456746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 95
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403a6e68d7e98050800000000000000
+      internalID: 5803424511594999873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f22ffd275d6020800000000000000
+      internalID: 2336619636740781558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c98d492c73586e0800000000000000
+      internalID: -1835999964223202198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33e58b23e6ec9a0800000000000000
+      internalID: -6210905671976733750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf3a629fc5e9ed0800000000000000
+      internalID: -2405382925804372515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99c0b844f76c410800000000000000
+      internalID: 1497023858514631141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05594fa714dcb4940800000000000000
+      internalID: 5281540669141456208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 95
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de5edbe953874d00800000000000000
+      internalID: 956877868072066775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 96
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3413cf5876df900800000000000000
+      internalID: 719845340608545763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 102
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b711fd4ef93c350800000000000000
+      internalID: 6035843730950421308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 95
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87d5adf9648af060800000000000000
+      internalID: 6988043362580682635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 99
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718cfad636fcdeaf0800000000000000
+      internalID: -365407968798193641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 95
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799ea38ca81cabe0800000000000000
+      internalID: -1464768649579554436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f062e329ed0b70800000000000000
+      internalID: 8866999581693506911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314a7080f8ae11ba0800000000000000
+      internalID: -6119852518583852013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a52b75ac6c9230800000000000000
+      internalID: 3646909256254727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ef6a5aeb5c2e40800000000000000
+      internalID: 5632978296031405923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde483a0ffc6a510800000000000000
+      internalID: 1560162953372954103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b220b00ea01e40800000000000000
+      internalID: 5625187252564047075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 63
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8253133b190b7d0800000000000000
+      internalID: -2904661560843228987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 63
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23877d6ed8fbd59e0800000000000000
+      internalID: -1630936873854076878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 63
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22e03d5df678c80800000000000000
+      internalID: -8320558822384065839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9048a8d1d40da70800000000000000
+      internalID: 8849658057056324010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1817e77a6e7d4be70800000000000000
+      internalID: 9130159730239369601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 31
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e9daf932eb5120800000000000000
+      internalID: 2403763564781889506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 31
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b447fdbebd7a5f80800000000000000
+      internalID: -8117037120197540687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a198f175fd19d4240800000000000000
+      internalID: 4777635168135383322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_66
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e37f8ecefbc2760800000000000000
+      internalID: 7434528109123550720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 31
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9540ee6afbbe4ae60800000000000000
+      internalID: 7972756448724517977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_68
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078988a2e8e24d730800000000000000
+      internalID: 4022891555282524272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 31
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f69ed02b928a460800000000000000
+      internalID: 7253093044594503486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 31
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49fa69c557f9ce0800000000000000
+      internalID: -1396268318936034144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_71
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 31
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511924aa005d5f340800000000000000
+      internalID: 4897054368668487957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e2fddf3b5f3c90800000000000000
+      internalID: -7187926150395271643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622454ff6bc01c00800000000000000
+      internalID: 869418409783468648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e2e0ab2cf47cc0800000000000000
+      internalID: -3714066528360799409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f66684c12b8f44c0800000000000000
+      internalID: -4301066141968210186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f8cfa9e7db9140800000000000000
+      internalID: 4727609632532002766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcba4b68fa312860800000000000000
+      internalID: 7503343292802317491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_78
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1970ab81a6fc0a0800000000000000
+      internalID: -6859147053029158451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5698f63b8f639d20800000000000000
+      internalID: 3284091196996621918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d565fb27dbb96f0800000000000000
+      internalID: -676739018455098090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_81
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9ebf0510593ec0800000000000000
+      internalID: -3586747576835204483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100bd901546284c0800000000000000
+      internalID: -4286753596082814945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23edddd48d3b9eb90800000000000000
+      internalID: -7212035586656444878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Animation_List_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb770e5ccf232f0800000000000000
+      internalID: -994454640890758143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Owlet_Monster_Animation_List_0: 1257903287466586888
+      Owlet_Monster_Animation_List_1: -6395168090995836456
+      Owlet_Monster_Animation_List_10: -5910425791738481846
+      Owlet_Monster_Animation_List_11: 7892687269389684412
+      Owlet_Monster_Animation_List_12: 5319269316382722215
+      Owlet_Monster_Animation_List_13: -7916063083048073630
+      Owlet_Monster_Animation_List_14: -3622908521717485177
+      Owlet_Monster_Animation_List_15: 5333006261733201436
+      Owlet_Monster_Animation_List_16: 8047199433288518584
+      Owlet_Monster_Animation_List_17: 872765715055818089
+      Owlet_Monster_Animation_List_18: 3207757889095262645
+      Owlet_Monster_Animation_List_19: -5372350575921315818
+      Owlet_Monster_Animation_List_2: -8990755705002103740
+      Owlet_Monster_Animation_List_20: 3642372397573050820
+      Owlet_Monster_Animation_List_21: 5552954777578583562
+      Owlet_Monster_Animation_List_22: -1933749931477629374
+      Owlet_Monster_Animation_List_23: -5022579230137978664
+      Owlet_Monster_Animation_List_24: 7253942581263769106
+      Owlet_Monster_Animation_List_25: 4729227112118869717
+      Owlet_Monster_Animation_List_26: 1181127042280741581
+      Owlet_Monster_Animation_List_27: -3563392217334440128
+      Owlet_Monster_Animation_List_28: 5568063465152041381
+      Owlet_Monster_Animation_List_29: -7784780478031505325
+      Owlet_Monster_Animation_List_3: -8500505987910810498
+      Owlet_Monster_Animation_List_30: -2001059953563197421
+      Owlet_Monster_Animation_List_31: -5189786381367718702
+      Owlet_Monster_Animation_List_32: -7811284510837885234
+      Owlet_Monster_Animation_List_33: 1945788534619844175
+      Owlet_Monster_Animation_List_34: -7195477030293230467
+      Owlet_Monster_Animation_List_35: 1725976493781049794
+      Owlet_Monster_Animation_List_36: 143761357516526614
+      Owlet_Monster_Animation_List_37: 2468672979530926884
+      Owlet_Monster_Animation_List_38: -1256296429189456746
+      Owlet_Monster_Animation_List_39: 5803424511594999873
+      Owlet_Monster_Animation_List_4: -1201998452447475355
+      Owlet_Monster_Animation_List_40: 2336619636740781558
+      Owlet_Monster_Animation_List_41: -1835999964223202198
+      Owlet_Monster_Animation_List_42: -6210905671976733750
+      Owlet_Monster_Animation_List_43: -2405382925804372515
+      Owlet_Monster_Animation_List_44: 1497023858514631141
+      Owlet_Monster_Animation_List_45: 5281540669141456208
+      Owlet_Monster_Animation_List_46: 956877868072066775
+      Owlet_Monster_Animation_List_47: 719845340608545763
+      Owlet_Monster_Animation_List_48: 6035843730950421308
+      Owlet_Monster_Animation_List_49: 6988043362580682635
+      Owlet_Monster_Animation_List_5: -3176466859442681144
+      Owlet_Monster_Animation_List_50: -365407968798193641
+      Owlet_Monster_Animation_List_51: -1464768649579554436
+      Owlet_Monster_Animation_List_52: 8866999581693506911
+      Owlet_Monster_Animation_List_53: -6119852518583852013
+      Owlet_Monster_Animation_List_54: 3646909256254727066
+      Owlet_Monster_Animation_List_55: 5632978296031405923
+      Owlet_Monster_Animation_List_56: 1560162953372954103
+      Owlet_Monster_Animation_List_57: 5625187252564047075
+      Owlet_Monster_Animation_List_58: -2904661560843228987
+      Owlet_Monster_Animation_List_59: -1630936873854076878
+      Owlet_Monster_Animation_List_6: 3963485523438131434
+      Owlet_Monster_Animation_List_60: -8320558822384065839
+      Owlet_Monster_Animation_List_61: 8849658057056324010
+      Owlet_Monster_Animation_List_62: 9130159730239369601
+      Owlet_Monster_Animation_List_63: 2403763564781889506
+      Owlet_Monster_Animation_List_64: -8117037120197540687
+      Owlet_Monster_Animation_List_65: 4777635168135383322
+      Owlet_Monster_Animation_List_66: 7434528109123550720
+      Owlet_Monster_Animation_List_67: 7972756448724517977
+      Owlet_Monster_Animation_List_68: 4022891555282524272
+      Owlet_Monster_Animation_List_69: 7253093044594503486
+      Owlet_Monster_Animation_List_7: -5940181948420406507
+      Owlet_Monster_Animation_List_70: -1396268318936034144
+      Owlet_Monster_Animation_List_71: 4897054368668487957
+      Owlet_Monster_Animation_List_72: -7187926150395271643
+      Owlet_Monster_Animation_List_73: 869418409783468648
+      Owlet_Monster_Animation_List_74: -3714066528360799409
+      Owlet_Monster_Animation_List_75: -4301066141968210186
+      Owlet_Monster_Animation_List_76: 4727609632532002766
+      Owlet_Monster_Animation_List_77: 7503343292802317491
+      Owlet_Monster_Animation_List_78: -6859147053029158451
+      Owlet_Monster_Animation_List_79: 3284091196996621918
+      Owlet_Monster_Animation_List_8: 4244889791071351993
+      Owlet_Monster_Animation_List_80: -676739018455098090
+      Owlet_Monster_Animation_List_81: -3586747576835204483
+      Owlet_Monster_Animation_List_82: -4286753596082814945
+      Owlet_Monster_Animation_List_83: -7212035586656444878
+      Owlet_Monster_Animation_List_84: -994454640890758143
+      Owlet_Monster_Animation_List_9: -1972169980088263256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
