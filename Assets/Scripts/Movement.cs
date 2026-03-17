@@ -4,6 +4,7 @@ public class Movement : MonoBehaviour
 {
     private float horizontal;
     public float speed = 4.0f;
+    public float sprintSpeed = 8.0f;
     public float jumpPower = 1f;
     private bool isFaceRight = true;
 
@@ -27,7 +28,14 @@ public class Movement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        if (Input.GetButton("Sprint"))
+        {
+            rb.linearVelocity = new Vector2(horizontal * sprintSpeed, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        }
     }
 
     private bool IsGrounded()
