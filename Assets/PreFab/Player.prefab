@@ -108,12 +108,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
   speed: 4
+  sprintSpeed: 8
   jumpPower: 9
   rb: {fileID: 4415225488302941832}
   groundCheck: {fileID: 8653303831540855862}
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  animator: {fileID: -6595798319148862030}
 --- !u!50 &4415225488302941832
 Rigidbody2D:
   serializedVersion: 5
@@ -188,7 +190,7 @@ Animator:
   m_GameObject: {fileID: 3789910718848190868}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ab17e1577df20334887f35bf1f0c62d4, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
