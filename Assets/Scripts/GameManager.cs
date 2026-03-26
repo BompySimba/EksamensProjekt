@@ -5,8 +5,14 @@ public class GameManager : MonoBehaviour
 {
     public GameObject completeLevelUI;
     public GameObject boxPrefab;
-    private GameObject currentBox;
     public Transform spawnPoint;
+
+    private GameObject currentBox;
+
+    void Start()
+    {
+        currentBox = GameObject.FindWithTag("Box");
+    }
 
     void Update()
     {
@@ -30,14 +36,17 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
     public void RespawnBox()
     {
         if (currentBox != null)
         {
             Destroy(currentBox);
         }
-        Instantiate(boxPrefab, spawnPoint.position, Quaternion.identity);
+
+        currentBox = Instantiate(boxPrefab, spawnPoint.position, Quaternion.identity);
     }
+
     public void BoxDestroyed()
     {
         currentBox = null;
