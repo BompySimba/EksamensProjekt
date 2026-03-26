@@ -10,5 +10,10 @@ public class Spike : MonoBehaviour
         {
             gameManager.RestartLevel();
         }
+        if (collisionInfo.tag == "Box")
+        {
+            Destroy(collisionInfo.gameObject);
+            gameManager.RespawnBox();
+        }
     }
 }
