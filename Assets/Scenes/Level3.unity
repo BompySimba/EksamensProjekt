@@ -776,6 +776,34 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 907697386}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadNextLevel
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -878,11 +906,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6843186439695186455, guid: 36c2d26839a54944d9359a107bb4e156, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.74
+      value: -7.725
       objectReference: {fileID: 0}
     - target: {fileID: 6843186439695186455, guid: 36c2d26839a54944d9359a107bb4e156, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.22
+      value: -3.31
       objectReference: {fileID: 0}
     - target: {fileID: 6843186439695186455, guid: 36c2d26839a54944d9359a107bb4e156, type: 3}
       propertyPath: m_LocalPosition.z
