@@ -939,8 +939,8 @@ TextureImporter:
       name: Nature_environment_01_38
       rect:
         serializedVersion: 2
-        x: 784
-        y: 240
+        x: 783
+        y: 241
         width: 48
         height: 48
       alignment: 0
@@ -1305,116 +1305,6 @@ TextureImporter:
       bones: []
       spriteID: 4d02a98055094f44eb95c7c8d15f690a
       internalID: 68072346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_55
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 192
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 304c6fa463087d446ad7735be093e211
-      internalID: -649869647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_56
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 192
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d5bfde8c7d79344785b17516baec45c
-      internalID: 540620297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_57
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 192
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6fdfdac558942d48b54b94cc2aeba4c
-      internalID: -1921221982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_58
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 192
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 733eedefeed51084087c4f3f6ea5049c
-      internalID: -1121337461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_59
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 192
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46a7a850350306648b37dfc420ce4dd9
-      internalID: 995282117
       vertices: []
       indices: 
       edges: []
@@ -1794,116 +1684,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nature_environment_01_77
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee5ed5af0cc4d984a8f28a3ce8a75ecf
-      internalID: 1359041226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_78
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 467906f599d80354a860810e0f1dcd37
-      internalID: 1495320759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_79
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3ff433a93c4d444ebef0f63cd4078a2
-      internalID: 2001459024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_80
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c881bc4537e92b4e8d1cf7731cc6a39
-      internalID: 620910744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_81
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ee2b0b9330300b47900604acf35887f
-      internalID: -1843590796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Nature_environment_01_82
       rect:
         serializedVersion: 2
@@ -2278,101 +2058,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nature_environment_01_99
+      name: Nature_environment_01_103
       rect:
         serializedVersion: 2
         x: 688
         y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59944f7db5546bb4aa8892568f3f46cd
-      internalID: -1021843536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_100
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2d113d4c9eea0e4c8d798df4ab77be6
-      internalID: -1346740835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_101
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8075f5aca1bf33e459bed02b3f194622
-      internalID: 1660886944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_102
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edc21cbf5f99d1e428b7bd47b68758ee
-      internalID: 1754749434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nature_environment_01_103
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 96
-        width: 48
-        height: 48
+        width: 240
+        height: 144
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
