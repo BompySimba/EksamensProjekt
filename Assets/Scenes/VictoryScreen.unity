@@ -476,7 +476,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1188300434}
         m_TargetAssemblyTypeName: scenechange, Assembly-CSharp
-        m_MethodName: GoToSceneTwo
+        m_MethodName: GoToMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -640,7 +640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819b7adef69ab7d4aaae9b94ee466c80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::scenechange
-  scene: 2
+  scene: 0
 --- !u!1 &1326688940
 GameObject:
   m_ObjectHideFlags: 0
