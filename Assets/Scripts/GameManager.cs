@@ -52,4 +52,9 @@ public class GameManager : MonoBehaviour
         currentBox = null;
         RespawnBox();
     }
+    public void GoToScene(int sceneID)
+    {
+        SceneManager.LoadScene(sceneID);
+        Time.timeScale = 1.0f;
+    }
 }

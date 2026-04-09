@@ -3,9 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class scenechange : MonoBehaviour
 {
-    public int scene = 1;
-    public void GoToMenu()
+    public void GoToScene(int sceneID)
     {
-     SceneManager.LoadScene(scene);  
+        SceneManager.LoadScene(sceneID);  
     }
 }
