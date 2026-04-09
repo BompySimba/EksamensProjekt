@@ -57,4 +57,9 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(sceneID);
         Time.timeScale = 1.0f;
     }
+
+    public void QUiTgame()
+    {
+        Application.Quit();
+    }
 }
