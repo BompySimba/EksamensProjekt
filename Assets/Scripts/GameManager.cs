@@ -8,10 +8,21 @@ public class GameManager : MonoBehaviour
     public Transform spawnPoint;
 
     private GameObject currentBox;
+    public static GameManager instance;
+    public bool playerIsDead = false;
 
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            Destroy(this);
+        }
+        instance = this;
+    }
     void Start()
     {
         currentBox = GameObject.FindWithTag("Box");
+        playerIsDead = false;
     }
 
     void Update()
@@ -34,6 +45,7 @@ public class GameManager : MonoBehaviour
 
     public void RestartLevel()
     {
+        playerIsDead = true;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -42,9 +54,8 @@ public class GameManager : MonoBehaviour
         if (currentBox != null)
         {
             Destroy(currentBox);
+            currentBox = Instantiate(boxPrefab, spawnPoint.position, Quaternion.identity);
         }
-
-        currentBox = Instantiate(boxPrefab, spawnPoint.position, Quaternion.identity);
     }
 
     public void BoxDestroyed()

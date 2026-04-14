@@ -832,6 +832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelComplete
       objectReference: {fileID: 0}
+    - target: {fileID: 7812324956091810120, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8052690443773378313, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1

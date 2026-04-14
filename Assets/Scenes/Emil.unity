@@ -339,6 +339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelComplete
       objectReference: {fileID: 0}
+    - target: {fileID: 7812324956091810120, guid: 7fbc2a9fce78d5747b814790904055f0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -865,6 +869,34 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1075261296}
+    - target: {fileID: 146195667039897164, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193677626658064429, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Color.b
+      value: 0.042452812
+      objectReference: {fileID: 0}
+    - target: {fileID: 193677626658064429, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Color.g
+      value: 0.042452812
+      objectReference: {fileID: 0}
+    - target: {fileID: 193677626658064429, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2280617806920277904, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2280617806920277904, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2280617806920277904, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.a
+      value: 0.45490196
+      objectReference: {fileID: 0}
     - target: {fileID: 2280617806920277904, guid: 9015e9f8673ba024e8ff856662f7d9ee, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
