@@ -36,7 +36,10 @@ public class MovingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.gameObject.transform.parent = null;
+            if (!GameManager.instance.playerIsDead)
+            {
+                collision.gameObject.transform.parent = null;
+            }
         }
     }
 }

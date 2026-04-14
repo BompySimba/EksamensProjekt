@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1762499042920682439, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1362006543, guid: d738441be1dca354db731675b13736ae, type: 3}
     - target: {fileID: 8045016651226404995, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Name
       value: Box Variant
