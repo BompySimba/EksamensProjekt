@@ -264,11 +264,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.x
-      value: 17.74767
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 17.747671
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.y
@@ -276,7 +276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1762499042920682439, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.x
-      value: 17.747671
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 1762499042920682439, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.y
@@ -296,7 +296,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8263104326217676101, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.62
+      value: -4.601
       objectReference: {fileID: 0}
     - target: {fileID: 8263104326217676101, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_LocalPosition.z
@@ -450,11 +450,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.x
-      value: 17.74767
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 17.747671
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 860541246297752850, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.y
@@ -462,7 +462,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1762499042920682439, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.x
-      value: 17.747671
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 1762499042920682439, guid: d8b5732db136f4f47abfcd191eec9114, type: 3}
       propertyPath: m_Size.y
